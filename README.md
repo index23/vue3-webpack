@@ -22,7 +22,7 @@ To build the application, run `npm run build`. This will create a `dist` directo
 ├── src/
 │   ├── App.vue
 │   ├── index.html
-│   ├── main.js
+│   ├── main.ts
 ├── package.json
 └── README.md
 ```
